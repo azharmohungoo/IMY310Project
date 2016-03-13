@@ -1,9 +1,0 @@
-\contentsline {section}{\numberline {1}Needs Identification}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Functionality flaws: }{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Design flaws: }{2}{subsection.1.2}
-\contentsline {section}{\numberline {2}User Identification}{3}{section.2}
-\contentsline {section}{\numberline {3}User Needs}{3}{section.3}
-\contentsline {section}{\numberline {4}Conceptual Design}{4}{section.4}
-\contentsline {subsection}{\numberline {4.1}Home Page}{4}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Login Page}{5}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}View Adverts}{6}{subsection.4.3}
