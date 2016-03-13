@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Paper Prototype Designs}{2}{section.1}
+\contentsline {section}{\numberline {2}Motivations for Alternative Designs}{3}{section.2}
+\contentsline {section}{\numberline {3}Testing the Designs}{3}{section.3}
+\contentsline {section}{\numberline {4}Feedback Received}{3}{section.4}
+\contentsline {section}{\numberline {5}Using the Feedback}{3}{section.5}
