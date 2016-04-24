@@ -11,9 +11,12 @@ Task5:
 Task6:
 
 Task7:
+In the right hand corner of the homepage, click the link to the login page. Then Enter the user credentials of your account and click the button labelled ''sign in'' to complete the login action.
 
 Task8:
+Fill in alls the information in the input boxes in the left most form on the page. Then select the region where you want the magazine delivered to by clicing the relvant radio button. Lastly, click the button labelled 'Confirm and add to cart' to add the item to the cart.
 
 Task9:
+Click the button labelled 'checkout' to pay for all the items that are displayed inside the cart
 
 Task10:
