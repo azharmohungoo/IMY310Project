@@ -1,25 +1,29 @@
 Task1:
+The user would click the menu option “Contact Us” on the homepage and the address of the head office is located below the map on the left.
 
 Task2:
+The user would simply click on the link “Latest Issue” situated at the top right hand side corner on the homepage and it would redirect them to the latest of the magazine.
 
 Task3:
+The user would click on the link “Register” situated at the top right hand side corner on the homepage, fill in their details and select the “register” button to complete the process.
 
 Task4:
+The user would enter what they need to search for in to the search box situated at the top right hand side of any page of the website and click the magnifying glass icon on it’s immediate right to execute the search. 
 
 Task5:
-In the right hand corner of the homepage, click the link to the login page. Then Enter the user credentials of your account and click the button labelled ''sign in'' to complete the login action.
+Fill in alls the information in the input boxes in the left most form on the page. Then select the region where you want the magazine delivered to by clicking the relevant radio button. Lastly, click the button labelled “Confirm and add to cart” to add the item to the cart.
 
 Task6:
-Fill in alls the information in the input boxes in the left most form on the page. Then select the region where you want the magazine delivered to by clicing the relvant radio button. Lastly, click the button labelled 'Confirm and add to cart' to add the item to the cart.
+In the right hand corner of the homepage, click the link to the login page. Then Enter the user credentials of your account and click the button labelled “sign in” to complete the login action.
 
 Task7:
-Click the button labelled 'checkout' to pay for all the items that are displayed inside the cart
+Click the button labelled “checkout” to pay for all the items that are displayed inside the cart.
 
 Task8:
 In order to place an advertisement on the website, the user will have to fill in a form with their personal details and the details of the equipment they want to sell. After they complete the form, they press the "Add to Cart" button to add their advertisement to their cart so that they can purchase the advertisement space on the website for their equipment.
 
 Task9:
-From the "My Advertisement" page, the user should press the "Checkout" button to view what they have added to thier cart and pay for them. 
+From the "My Advertisement" page, the user should press the "Checkout" button to view what they have added to their cart and pay for them. 
 
 Task10:
 The user should fill in the form with their contact details. Once they are done, they should click on the "Send Information" button in order to send their details to the owner of the equipment so that they can contact them back.
