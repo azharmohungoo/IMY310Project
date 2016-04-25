@@ -13,7 +13,10 @@ Task6:
 Task7:
 
 Task8:
+In order to place an advertisement on the website, the user will have to fill in a form with their personal details and the details of the equipment they want to sell. After they complete the form, they press the "Add to Cart" button to add their advertisement to their cart so that they can purchase the advertisement space on the website for their equipment.
 
 Task9:
+From the "My Advertisement" page, the user should press the "Checkout" button to view what they have added to thier cart and pay for them. 
 
 Task10:
+The user should fill in the form with their contact details. Once they are done, they should click on the "Send Information" button in order to send their details to the owner of the equipment so that they can contact them back.
