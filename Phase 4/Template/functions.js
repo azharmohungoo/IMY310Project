@@ -1,6 +1,6 @@
 function added()
 {
-	alert("succesfuuly added to cart");
+	alert("succesfully added to cart");
 }
 
 function checkout()
